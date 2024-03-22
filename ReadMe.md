@@ -23,7 +23,7 @@ By running my analysis from the data movie.info.csv, it clearly indicates that t
 
 Based on the results it would be advisable for microsoft to venture into the industry starting Drama. Microsoft can venture into other genre as it progresses step by step.
 
-![Popular Genre](MOVIE-ANALYSIS/gg.PNG)
+![Popular Genre](Microsoft_proj/Pics/gg.PNG)
 
 In addition 
 
@@ -31,14 +31,14 @@ In addition
  
 From the dat bom.movie, i have used the data to measure the correlation between domestic gross and foreign gross.  I have also checked the annual growth for both Domestic gross and foreign gross. By checking on the correlation and annual growth, microsoft can be able to determine if they can dominate in the industry and make revenue both locally and globally. 
 
-![Population budget vs worldwide gross](MOVIE-ANALYSIS/vv.PNG)
+[Population budget vs worldwide gross](Microsoft_proj/Pics/vv.PNG)
 
 The Annual domestic and foreign  graph both indicate that there is a positive consistant annual growth averagely. This data can be used to visualize and set future targets.
 
-![Total foreign gross](MOVIE-ANALYSIS/hh.PNG)
-![Total Foreign Gross] (Microsoft_proj/Pics/hh.PNG)
+![Total foreign gross](Microsoft_proj/Pics/hh.PNG)
+![Total Foreign Gross](Microsoft_proj/Pics/hh.PNG)
 
-![Total domestic gross](MOVIE-ANALYSIS/jj.PNG)
+![Total domestic gross]Microsoft_proj/Pics/jj.PNG)
 
 There is a positive vcorrelation between domestic gross and worldwide gross. When there is an increase in domestic gross, there is also an increase on worldwide gross.
 
