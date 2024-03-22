@@ -36,6 +36,7 @@ From the dat bom.movie, i have used the data to measure the correlation between 
 The Annual domestic and foreign  graph both indicate that there is a positive consistant annual growth averagely. This data can be used to visualize and set future targets.
 
 ![Total foreign gross](MOVIE-ANALYSIS/hh.PNG)
+![Total Foreign Gross] (Microsoft_proj/Pics/hh.PNG)
 
 ![Total domestic gross](MOVIE-ANALYSIS/jj.PNG)
 
@@ -45,3 +46,6 @@ There is a positive vcorrelation between domestic gross and worldwide gross. Whe
 From all the collected analys,I would recommend microsoft to:- 
 1. start with the Drama genre to gain traction in film production industry.
 2. I will advice Microsoft to heavily invest on production. Quality films will increase their Return On Investment.
+
+## Presentation link
+![Presentation Link](Microsoft_proj/presentation slides.pdf) 
