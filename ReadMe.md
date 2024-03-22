@@ -48,4 +48,4 @@ From all the collected analys,I would recommend microsoft to:-
 2. I will advice Microsoft to heavily invest on production. Quality films will increase their Return On Investment.
 
 ## Presentation link
-![Presentation Link](Microsoft_proj/presentation slides.pdf) 
+[Presentation Link](Microsoft_proj/presentation slides.pdf) 
